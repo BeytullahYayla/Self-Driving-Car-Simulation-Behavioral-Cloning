@@ -5,8 +5,6 @@
 
 
 
-https://user-images.githubusercontent.com/78471151/177855820-f37de60a-32e8-4c5f-9803-f0845d49dc00.mp4
-
 
 
 
@@ -235,5 +233,21 @@ The deep neural network itself takes input images (160 x 320 x 3). At the very b
 
 
 ![elu](https://user-images.githubusercontent.com/78471151/178105856-6ae305db-28ce-43f4-a5e3-84e501bf8920.png)
+
+## Training And Validation Scores 
+
+As you can see on the graph I've reached  0.0402 training loss, 0.0323 validation loss score. We can consider that our model predicts steering angles true more than 99 out of 100.
+
+
+
+![Screenshot_1](https://user-images.githubusercontent.com/78471151/178158069-8abf99c1-e824-45b7-874e-ddb4567dbd29.png)
+
+
+## Test Results
+
+
+
+https://user-images.githubusercontent.com/78471151/177855820-f37de60a-32e8-4c5f-9803-f0845d49dc00.mp4
+
 
 
